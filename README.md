@@ -1,0 +1,1 @@
+This repository showcases a collection of data analytics dashboards built to solve real-world business problems. Each project focuses on transforming raw data into actionable insights to support decision-making.
